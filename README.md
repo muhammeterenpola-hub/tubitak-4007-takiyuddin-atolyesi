@@ -38,8 +38,3 @@ Poster metinleri aşağıdaki çalışmalara dayanır.
 - Melek Dosay Gökdoğan (2018)
 
 Takiyüddin'in tasarladığı saatlerin fiziksel bir örneği günümüze ulaşmamıştır. Görsel kaynaklar, kendi risalesindeki şematik çizimler ve İstanbul Rasathanesi'ni gösteren Şehinşahnâme minyatürüyle sınırlıdır.
-
-
-## Lisans
-
-[Belirlenecek]
