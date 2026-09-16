@@ -1,6 +1,7 @@
 # Takiyüddin Atölyesi 
 
 **TÜBİTAK 4007 Bilim Şenliği – "Köklerimde Bilim Var"** (Proje no: 957926)
+
 Paydaş: Gebze Teknik Üniversitesi
 
 İlkokul ve ortaokul öğrencileri için yaklaşık 40 dakikalık bir atölye. Önce zamanı ölçme
