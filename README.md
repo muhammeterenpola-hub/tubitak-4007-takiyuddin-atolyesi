@@ -1,12 +1,11 @@
-# Takiyüddin Atölyesi ⏳⚙️
+# Takiyüddin Atölyesi 
 
 **TÜBİTAK 4007 Bilim Şenliği – "Köklerimde Bilim Var"** (Proje no: 957926)
 Paydaş: Gebze Teknik Üniversitesi
 
 İlkokul ve ortaokul öğrencileri için yaklaşık 40 dakikalık bir atölye. Önce zamanı ölçme
 yöntemlerinin tarihini ve 16. yüzyılda İstanbul Rasathanesi'nde mekanik saat tasarlayan
-Takiyüddin'i anlatıyoruz. Ardından ekipler, pleksiglas gövdeli dişli saat sistemimizi
-kendi elleriyle kuruyor.
+Takiyüddin'i anlatıyoruz. Ardından pleksiglas gövdeli dişli saat sistemimizi kuruyoruzuz.
 
 ## 📁 İçerik
 
