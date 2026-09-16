@@ -1,40 +1,45 @@
-# Takiyüddin Atölyesi
+# Takiyüddin Atölyesi ⏳⚙️
 
-TÜBİTAK Bilim Şenliği kapsamında yürütülen "Takiyüddin Atölyesi" etkinliğinin poster sergisi, atölye materyalleri ve tasarım dosyalarını içerir.
+**TÜBİTAK 4007 Bilim Şenliği – "Köklerimde Bilim Var"** (Proje no: 957926)
+Paydaş: Gebze Teknik Üniversitesi
 
-**Etkinlik:** TÜBİTAK Bilim Şenliği [program kodu buraya]
-**Tarih:** Eylül 2026
-**Yer:** Prof. Dr. Necmettin Erbakan Kültür Merkezi
+İlkokul ve ortaokul öğrencileri için yaklaşık 40 dakikalık bir atölye. Önce zamanı ölçme
+yöntemlerinin tarihini ve 16. yüzyılda İstanbul Rasathanesi'nde mekanik saat tasarlayan
+Takiyüddin'i anlatıyoruz. Ardından ekipler, pleksiglas gövdeli dişli saat sistemimizi
+kendi elleriyle kuruyor.
 
----
+## 📁 İçerik
 
-## Etkinlik hakkında
+### `sunum/` — Atölyede kullanılan anlatım dosyaları
+| Dosya | Açıklama |
+|---|---|
+| [takiyuddin-hayati-sunum.html](sunum/takiyuddin-hayati-sunum.html) | Takiyüddin'in hayatı sunumu |
+| [zaman-cizgisi-interaktif.html](sunum/zaman-cizgisi-interaktif.html) | Etkileşimli zaman çizgisi |
 
-Atölye, ilkokul ve ortaokul öğrencilerine yönelik yaklaşık 40 dakikalık bir uygulamadır. Katılımcılar, proje ekibi tarafından tasarlanan plexiglass gövdeli ve dişli aktarımlı bir saat mekanizmasını önce tanıtım sunumuyla izler, ardından kendilerine dağıtılan bileşenlerle aynı sistemi kurmaya çalışır.
+> HTML dosyalarını açmak için dosyayı indirip tarayıcıda (Chrome, Firefox vb.) açın.
 
-Atölyeye eşlik eden fuaye sergisi, zaman ölçme araçlarının tarihini güneş saatinden atom saatine uzanan bir çizgide ele alır. Serginin odak figürü, saati bir zaman gösterme nesnesinden bir ölçüm aletine dönüştüren ve mekanik saat yapımına dair bilinen ilk Osmanlı metnini kaleme alan Takiyüddin'dir.
+### `sergi/` — Fuaye alanındaki poster sergisi (A2)
+| Dosya | Açıklama |
+|---|---|
+| [zaman-cizgisi-posteri.pdf](sergi/zaman-cizgisi-posteri.pdf) | "Zamanı Nasıl Yakaladık?" zaman çizgisi posteri |
 
-### Akış
+**Saat posterleri** (`sergi/saat-posterleri/`):
+1. [Güneş Saati](sergi/saat-posterleri/1-gunes-saati.pdf)
+2. [Su Saati (Klepsidra)](sergi/saat-posterleri/2-su-saati.pdf)
+3. [Cezerî'nin Fil Saati](sergi/saat-posterleri/3-cezeri-fil-saati.pdf)
+4. [Kum Saati](sergi/saat-posterleri/4-kum-saati.pdf)
+5. [Usturlap ve Rubu Tahtası](sergi/saat-posterleri/5-usturlap.pdf)
+6. [Zemberekli Cep Saati](sergi/saat-posterleri/6-zemberekli-cep-saati.pdf)
+7. [Takiyüddin ve Rasat Saati](sergi/saat-posterleri/7-takiyuddin-rasat-saati.pdf)
 
-| Bölüm | İçerik |
-| Tanıtım | Mekanizmanın tanıtımı ve kurulum anlatımı |
-| Uygulama | Ekiplerin sistemi kendi başına kurması |
-| Sergi | Fuaye alanındaki poster sergisi |
+### `atolye/` — Dişli saat sistemi ve atölye materyalleri
+| Dosya | Açıklama |
+|---|---|
+| [disli-sistemi-tasarimi.png](atolye/disli-sistemi-tasarimi.png) | Dişli sisteminin şeması (5 mil, A–H dişlileri) |
+| [disli-olculeri.xlsx](atolye/disli-olculeri.xlsx) | Dişlilerin ölçüleri |
+| [malzeme-listesi.pdf](atolye/malzeme-listesi.pdf) | Kendi atölyenizi kurmak için malzeme listesi |
+| [katilim-sertifikasi.pdf](atolye/katilim-sertifikasi.pdf) | Katılımcılara verilen sertifika |
 
----
-
-## Sergi içeriği
-
-Sergi, bir zaman çizgisi posteri ile zaman çizgisindeki durakları tek tek ele alan posterlerden oluşur. Zaman çizgisi yatay, tekil posterler dikey formattadır. Duraklar tarihsel olarak orantılı değil, eşit aralıklarla yerleştirilmiştir.
-
----
-
-## Kaynaklar
-
-Poster metinleri aşağıdaki çalışmalara dayanır.
-
-- Sevim Tekeli, *El-Kevâkibü'd-dürriyye fî vaz'i'l-bengâmâti'd-devriyye* edisyonu (1966)
-- Sevim Tekeli (1958, 2002)
-- Melek Dosay Gökdoğan (2018)
-
-Takiyüddin'in tasarladığı saatlerin fiziksel bir örneği günümüze ulaşmamıştır. Görsel kaynaklar, kendi risalesindeki şematik çizimler ve İstanbul Rasathanesi'ni gösteren Şehinşahnâme minyatürüyle sınırlıdır.
+## 🤝 Destekleyenler
+TÜBİTAK · Gebze Teknik Üniversitesi · T.C. Çayırova Kaymakamlığı ·
+Çayırova İlçe Milli Eğitim Müdürlüğü · Çayırova Belediyesi · Bilimfest
