@@ -45,6 +45,12 @@ Takiyüddin'i anlatıyoruz. Ardından plexiglass gövdeli dişli saat sistemimiz
 | [malzeme-listesi.pdf](malzeme-listesi.pdf) | Kendi atölyenizi kurmak için malzeme listesi |
 | [katilim-sertifikasi.pdf](katilim-sertifikasi.pdf) | Katılımcılara verilen sertifika |
 
+## 👥 Ekip
+
+**Danışman:** Arş. Gör. Başak Karakaş
+**Yürütücü:** Muhammet Eren Pola
+**Ekip:** Ahmet Can Kabataş, Fatma Bilgenur Kurşun, Esma Nur Kundak, Yasemin Kıldıoğlu, Merve Sude Haykır
+
 ## 🤝 Destekleyenler
 
 TÜBİTAK · Gebze Teknik Üniversitesi · T.C. Çayırova Kaymakamlığı ·
