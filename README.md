@@ -6,7 +6,7 @@ Paydaş: Gebze Teknik Üniversitesi
 
 İlkokul ve ortaokul öğrencileri için bir atölye. Önce zamanı ölçme
 yöntemlerinin tarihini ve 16. yüzyılda İstanbul Rasathanesi'nde mekanik saat tasarlayan
-Takiyüddin'i anlatıyoruz. Ardından pleksiglas gövdeli dişli saat sistemimizi kuruyoruz.
+Takiyüddin'i anlatıyoruz. Ardından plexiglass gövdeli dişli saat sistemimizi kuruyoruz.
 
 ## 📁 İçerik
 
